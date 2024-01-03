@@ -8,7 +8,7 @@
 <img src="https://tinypic.host/images/2024/01/03/banner-github.png" alt="banner-github.png" border="0">
 
 <!-- stats (deben mejorar :C)-->
-| <a href="https://github.com/Kevs256/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevs256&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kevs256 github stats" /></a> | <a href="https://github.com/Kevs256/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevs256&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Kevs256/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevs256&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kevs256 github stats" /></a> | <a href="https://github.com/Kevs256/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevs256&layout=compact&theme=dark&hide_border=true" /></a> |
 
 <!-- stats (deben mejorar :C)-->
 ## Sobre mi
