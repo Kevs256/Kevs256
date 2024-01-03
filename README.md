@@ -20,6 +20,14 @@
 - Toma de requerimientos
 - Analitica de datos
 
+  <h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,dart,flutter,react,tailwind,vite,py,go,css,html,js,nodejs,sequelize,nestjs,ts,mysql, mongodb,sqlite,postgres,git,github,docker,nginx,gcp,materialui,postman,eclipse,vscode,bash,linux,ai,figma,xd,cs,discord,express,flask,vscode&perline=12" />
+  </a>
+</p>
+
 ## Conéctate conmigo
 - [LinkedIn](www.linkedin.com/in/kevin-quintanab)
 
