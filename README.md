@@ -29,7 +29,7 @@
 </p>
 
 ## Conéctate conmigo
-<a href="www.linkedin.com/in/kevin-quintanab">- [LinkedIn]</a>
+<a href="www.linkedin.com/in/kevin-quintanab">-LinkedIn</a>
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por seguir aprendiendo y creando juntos.
 <!--
